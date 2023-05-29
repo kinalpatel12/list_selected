@@ -399,6 +399,7 @@ class _MultipleSelectionPageState extends State<MultipleSelectionPage> {
                         onChanged: (_) => _toggleSubItemSelection(item, subItem),
                       ),
                     );
+
                   },
                 ),
             ],
